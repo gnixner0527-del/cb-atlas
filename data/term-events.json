@@ -1,0 +1,823 @@
+[
+  {
+    "id": "call-5a6ad9a4",
+    "type": "公告实施强赎",
+    "english": "DISCLOSED CALL EVENTS",
+    "representativeBond": "胜蓝转02",
+    "count": 18,
+    "dayChange": null,
+    "riskLevel": "unknown",
+    "nextDate": "2026-09-17",
+    "description": "2026-06-13至2026-09-10共18条去重公告，涉及18只普通可转债。仅展示已披露事实，不推算触发天数。",
+    "bonds": [
+      "精达转债",
+      "山玻转债",
+      "正川转债",
+      "鹤21转债",
+      "艾迪转债",
+      "密卫转债",
+      "春23转债",
+      "应流转债",
+      "银微转债",
+      "奕瑞转债",
+      "宏微转债",
+      "正帆转债",
+      "万讯转债",
+      "水羊转债",
+      "华医转债",
+      "胜蓝转02",
+      "恒逸转2",
+      "华亚转债"
+    ],
+    "asOf": "2026-09-10",
+    "availability": "披露公告",
+    "records": [
+      {
+        "bondCode": "123258.SZ",
+        "bondName": "胜蓝转02",
+        "date": "2026-09-10",
+        "status": "公告实施强赎",
+        "eventDate": "2026-10-12"
+      },
+      {
+        "bondCode": "123112.SZ",
+        "bondName": "万讯转债",
+        "date": "2026-08-27",
+        "status": "公告实施强赎",
+        "eventDate": "2026-09-17"
+      },
+      {
+        "bondCode": "127067.SZ",
+        "bondName": "恒逸转2",
+        "date": "2026-08-18",
+        "status": "公告实施强赎",
+        "eventDate": "2026-09-09"
+      },
+      {
+        "bondCode": "113667.SH",
+        "bondName": "春23转债",
+        "date": "2026-08-18",
+        "status": "公告实施强赎",
+        "eventDate": "2026-08-31"
+      },
+      {
+        "bondCode": "113697.SH",
+        "bondName": "应流转债",
+        "date": "2026-08-14",
+        "status": "公告实施强赎",
+        "eventDate": "2026-08-28"
+      },
+      {
+        "bondCode": "118053.SH",
+        "bondName": "正帆转债",
+        "date": "2026-08-03",
+        "status": "公告实施强赎",
+        "eventDate": "2026-08-13"
+      },
+      {
+        "bondCode": "113658.SH",
+        "bondName": "密卫转债",
+        "date": "2026-07-23",
+        "status": "公告实施强赎",
+        "eventDate": "2026-08-12"
+      },
+      {
+        "bondCode": "113624.SH",
+        "bondName": "正川转债",
+        "date": "2026-07-17",
+        "status": "公告实施强赎",
+        "eventDate": "2026-07-31"
+      },
+      {
+        "bondCode": "118011.SH",
+        "bondName": "银微转债",
+        "date": "2026-07-15",
+        "status": "公告实施强赎",
+        "eventDate": "2026-07-27"
+      },
+      {
+        "bondCode": "110074.SH",
+        "bondName": "精达转债",
+        "date": "2026-07-15",
+        "status": "公告实施强赎",
+        "eventDate": "2026-07-31"
+      },
+      {
+        "bondCode": "123188.SZ",
+        "bondName": "水羊转债",
+        "date": "2026-07-14",
+        "status": "公告实施强赎",
+        "eventDate": "2026-08-04"
+      },
+      {
+        "bondCode": "118040.SH",
+        "bondName": "宏微转债",
+        "date": "2026-07-13",
+        "status": "公告实施强赎",
+        "eventDate": "2026-07-24"
+      },
+      {
+        "bondCode": "113632.SH",
+        "bondName": "鹤21转债",
+        "date": "2026-07-10",
+        "status": "公告实施强赎",
+        "eventDate": "2026-07-27"
+      },
+      {
+        "bondCode": "123251.SZ",
+        "bondName": "华医转债",
+        "date": "2026-07-08",
+        "status": "公告实施强赎",
+        "eventDate": "2026-07-29"
+      },
+      {
+        "bondCode": "111001.SH",
+        "bondName": "山玻转债",
+        "date": "2026-06-23",
+        "status": "公告实施强赎",
+        "eventDate": "2026-07-07"
+      },
+      {
+        "bondCode": "113644.SH",
+        "bondName": "艾迪转债",
+        "date": "2026-06-23",
+        "status": "公告实施强赎",
+        "eventDate": "2026-07-09"
+      },
+      {
+        "bondCode": "118025.SH",
+        "bondName": "奕瑞转债",
+        "date": "2026-06-22",
+        "status": "公告实施强赎",
+        "eventDate": "2026-07-06"
+      },
+      {
+        "bondCode": "127079.SZ",
+        "bondName": "华亚转债",
+        "date": "2026-06-16",
+        "status": "公告实施强赎",
+        "eventDate": "2026-07-09"
+      }
+    ]
+  },
+  {
+    "id": "call-f276d225",
+    "type": "已满足强赎条件",
+    "english": "DISCLOSED CALL EVENTS",
+    "representativeBond": "胜蓝转02",
+    "count": 29,
+    "dayChange": null,
+    "riskLevel": "unknown",
+    "nextDate": null,
+    "description": "2026-06-13至2026-09-10共29条去重公告，涉及29只普通可转债。仅展示已披露事实，不推算触发天数。",
+    "bonds": [
+      "精达转债",
+      "洪城转债",
+      "福新转债",
+      "正川转债",
+      "鹤21转债",
+      "密卫转债",
+      "春23转债",
+      "华懋转债",
+      "应流转债",
+      "银微转债",
+      "宏微转债",
+      "航宇转债",
+      "正帆转债",
+      "路维转债",
+      "颀中转债",
+      "茂莱转债",
+      "天准转债",
+      "联瑞转债",
+      "万讯转债",
+      "精测转2",
+      "水羊转债",
+      "冠中转债",
+      "华医转债",
+      "胜蓝转02",
+      "银轮转债",
+      "恒逸转2",
+      "优彩转债",
+      "华亚转债",
+      "泰坦转债"
+    ],
+    "asOf": "2026-09-10",
+    "availability": "披露公告",
+    "records": [
+      {
+        "bondCode": "123258.SZ",
+        "bondName": "胜蓝转02",
+        "date": "2026-09-09",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "127078.SZ",
+        "bondName": "优彩转债",
+        "date": "2026-09-03",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "123112.SZ",
+        "bondName": "万讯转债",
+        "date": "2026-08-26",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118056.SH",
+        "bondName": "路维转债",
+        "date": "2026-08-19",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "127067.SZ",
+        "bondName": "恒逸转2",
+        "date": "2026-08-17",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "113667.SH",
+        "bondName": "春23转债",
+        "date": "2026-08-07",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "113697.SH",
+        "bondName": "应流转债",
+        "date": "2026-08-05",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "123176.SZ",
+        "bondName": "精测转2",
+        "date": "2026-08-05",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118064.SH",
+        "bondName": "联瑞转债",
+        "date": "2026-08-03",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "110077.SH",
+        "bondName": "洪城转债",
+        "date": "2026-07-31",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "113677.SH",
+        "bondName": "华懋转债",
+        "date": "2026-07-17",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118053.SH",
+        "bondName": "正帆转债",
+        "date": "2026-07-16",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "113658.SH",
+        "bondName": "密卫转债",
+        "date": "2026-07-15",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "123188.SZ",
+        "bondName": "水羊转债",
+        "date": "2026-07-13",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "111012.SH",
+        "bondName": "福新转债",
+        "date": "2026-07-10",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "113624.SH",
+        "bondName": "正川转债",
+        "date": "2026-07-09",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118062.SH",
+        "bondName": "天准转债",
+        "date": "2026-07-09",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "123251.SZ",
+        "bondName": "华医转债",
+        "date": "2026-07-07",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "110074.SH",
+        "bondName": "精达转债",
+        "date": "2026-07-06",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118061.SH",
+        "bondName": "茂莱转债",
+        "date": "2026-07-03",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "127096.SZ",
+        "bondName": "泰坦转债",
+        "date": "2026-07-03",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118040.SH",
+        "bondName": "宏微转债",
+        "date": "2026-07-02",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118011.SH",
+        "bondName": "银微转债",
+        "date": "2026-07-01",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "113632.SH",
+        "bondName": "鹤21转债",
+        "date": "2026-06-24",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118050.SH",
+        "bondName": "航宇转债",
+        "date": "2026-06-17",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118059.SH",
+        "bondName": "颀中转债",
+        "date": "2026-06-17",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "123207.SZ",
+        "bondName": "冠中转债",
+        "date": "2026-06-16",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "127037.SZ",
+        "bondName": "银轮转债",
+        "date": "2026-06-16",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      },
+      {
+        "bondCode": "127079.SZ",
+        "bondName": "华亚转债",
+        "date": "2026-06-15",
+        "status": "已满足强赎条件",
+        "eventDate": null
+      }
+    ]
+  },
+  {
+    "id": "call-a108d12f",
+    "type": "公告到期赎回",
+    "english": "DISCLOSED CALL EVENTS",
+    "representativeBond": "乐歌转债",
+    "count": 16,
+    "dayChange": null,
+    "riskLevel": "unknown",
+    "nextDate": "2026-10-09",
+    "description": "2026-06-13至2026-09-10共16条去重公告，涉及16只普通可转债。仅展示已披露事实，不推算触发天数。",
+    "bonds": [
+      "国投转债",
+      "南航转债",
+      "紫银转债",
+      "嘉泽转债",
+      "佳力转债",
+      "万孚转债",
+      "宝莱转债",
+      "天能转债",
+      "乐歌转债",
+      "科华转债",
+      "华阳转债",
+      "文科转债",
+      "齐翔转2",
+      "青农转债",
+      "鸿路转债",
+      "洽洽转债"
+    ],
+    "asOf": "2026-09-10",
+    "availability": "披露公告",
+    "records": [
+      {
+        "bondCode": "123072.SZ",
+        "bondName": "乐歌转债",
+        "date": "2026-09-09",
+        "status": "公告到期赎回",
+        "eventDate": "2026-10-21"
+      },
+      {
+        "bondCode": "123071.SZ",
+        "bondName": "天能转债",
+        "date": "2026-09-08",
+        "status": "公告到期赎回",
+        "eventDate": "2026-10-21"
+      },
+      {
+        "bondCode": "128135.SZ",
+        "bondName": "洽洽转债",
+        "date": "2026-09-04",
+        "status": "公告到期赎回",
+        "eventDate": "2026-10-20"
+      },
+      {
+        "bondCode": "110075.SH",
+        "bondName": "南航转债",
+        "date": "2026-09-03",
+        "status": "公告到期赎回",
+        "eventDate": "2026-10-15"
+      },
+      {
+        "bondCode": "128134.SZ",
+        "bondName": "鸿路转债",
+        "date": "2026-08-26",
+        "status": "公告到期赎回",
+        "eventDate": "2026-10-09"
+      },
+      {
+        "bondCode": "123065.SZ",
+        "bondName": "宝莱转债",
+        "date": "2026-07-31",
+        "status": "公告到期赎回",
+        "eventDate": "2026-09-04"
+      },
+      {
+        "bondCode": "123064.SZ",
+        "bondName": "万孚转债",
+        "date": "2026-07-28",
+        "status": "公告到期赎回",
+        "eventDate": "2026-09-01"
+      },
+      {
+        "bondCode": "113039.SH",
+        "bondName": "嘉泽转债",
+        "date": "2026-07-21",
+        "status": "公告到期赎回",
+        "eventDate": "2026-08-24"
+      },
+      {
+        "bondCode": "128129.SZ",
+        "bondName": "青农转债",
+        "date": "2026-07-21",
+        "status": "公告到期赎回",
+        "eventDate": "2026-08-25"
+      },
+      {
+        "bondCode": "128128.SZ",
+        "bondName": "齐翔转2",
+        "date": "2026-07-16",
+        "status": "公告到期赎回",
+        "eventDate": "2026-08-20"
+      },
+      {
+        "bondCode": "128127.SZ",
+        "bondName": "文科转债",
+        "date": "2026-07-16",
+        "status": "公告到期赎回",
+        "eventDate": "2026-08-20"
+      },
+      {
+        "bondCode": "113037.SH",
+        "bondName": "紫银转债",
+        "date": "2026-07-07",
+        "status": "公告到期赎回",
+        "eventDate": "2026-07-23"
+      },
+      {
+        "bondCode": "110073.SH",
+        "bondName": "国投转债",
+        "date": "2026-06-30",
+        "status": "公告到期赎回",
+        "eventDate": "2026-07-24"
+      },
+      {
+        "bondCode": "113597.SH",
+        "bondName": "佳力转债",
+        "date": "2026-06-30",
+        "status": "公告到期赎回",
+        "eventDate": "2026-07-30"
+      },
+      {
+        "bondCode": "128125.SZ",
+        "bondName": "华阳转债",
+        "date": "2026-06-25",
+        "status": "公告到期赎回",
+        "eventDate": "2026-07-30"
+      },
+      {
+        "bondCode": "128124.SZ",
+        "bondName": "科华转债",
+        "date": "2026-06-23",
+        "status": "公告到期赎回",
+        "eventDate": "2026-07-28"
+      }
+    ]
+  },
+  {
+    "id": "call-30643bf8",
+    "type": "公告不强赎",
+    "english": "DISCLOSED CALL EVENTS",
+    "representativeBond": "优彩转债",
+    "count": 20,
+    "dayChange": null,
+    "riskLevel": "unknown",
+    "nextDate": null,
+    "description": "2026-06-13至2026-09-10共20条去重公告，涉及20只普通可转债。仅展示已披露事实，不推算触发天数。",
+    "bonds": [
+      "洪城转债",
+      "福新转债",
+      "天创转债",
+      "华懋转债",
+      "航宇转债",
+      "路维转债",
+      "颀中转债",
+      "茂莱转债",
+      "天准转债",
+      "联瑞转债",
+      "宙邦转债",
+      "精测转2",
+      "超达转债",
+      "冠中转债",
+      "欧通转债",
+      "集智转债",
+      "万凯转债",
+      "银轮转债",
+      "优彩转债",
+      "泰坦转债"
+    ],
+    "asOf": "2026-09-10",
+    "availability": "披露公告",
+    "records": [
+      {
+        "bondCode": "127078.SZ",
+        "bondName": "优彩转债",
+        "date": "2026-09-04",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "123241.SZ",
+        "bondName": "欧通转债",
+        "date": "2026-08-28",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "123187.SZ",
+        "bondName": "超达转债",
+        "date": "2026-08-21",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118056.SH",
+        "bondName": "路维转债",
+        "date": "2026-08-20",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "123158.SZ",
+        "bondName": "宙邦转债",
+        "date": "2026-08-12",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "123176.SZ",
+        "bondName": "精测转2",
+        "date": "2026-08-06",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118064.SH",
+        "bondName": "联瑞转债",
+        "date": "2026-08-04",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "110077.SH",
+        "bondName": "洪城转债",
+        "date": "2026-08-01",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "113677.SH",
+        "bondName": "华懋转债",
+        "date": "2026-07-18",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "111012.SH",
+        "bondName": "福新转债",
+        "date": "2026-07-11",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118062.SH",
+        "bondName": "天准转债",
+        "date": "2026-07-10",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "123247.SZ",
+        "bondName": "万凯转债",
+        "date": "2026-07-08",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "127096.SZ",
+        "bondName": "泰坦转债",
+        "date": "2026-07-06",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118061.SH",
+        "bondName": "茂莱转债",
+        "date": "2026-07-04",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "123245.SZ",
+        "bondName": "集智转债",
+        "date": "2026-06-23",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118050.SH",
+        "bondName": "航宇转债",
+        "date": "2026-06-18",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118059.SH",
+        "bondName": "颀中转债",
+        "date": "2026-06-18",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "127037.SZ",
+        "bondName": "银轮转债",
+        "date": "2026-06-17",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "123207.SZ",
+        "bondName": "冠中转债",
+        "date": "2026-06-17",
+        "status": "公告不强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "113589.SH",
+        "bondName": "天创转债",
+        "date": "2026-06-16",
+        "status": "公告不强赎",
+        "eventDate": null
+      }
+    ]
+  },
+  {
+    "id": "call-114e6394",
+    "type": "公告提示强赎",
+    "english": "DISCLOSED CALL EVENTS",
+    "representativeBond": "春23转债",
+    "count": 9,
+    "dayChange": null,
+    "riskLevel": "unknown",
+    "nextDate": null,
+    "description": "2026-06-13至2026-09-10共9条去重公告，涉及9只普通可转债。仅展示已披露事实，不推算触发天数。",
+    "bonds": [
+      "精达转债",
+      "正川转债",
+      "鹤21转债",
+      "密卫转债",
+      "春23转债",
+      "应流转债",
+      "银微转债",
+      "宏微转债",
+      "正帆转债"
+    ],
+    "asOf": "2026-09-10",
+    "availability": "披露公告",
+    "records": [
+      {
+        "bondCode": "113667.SH",
+        "bondName": "春23转债",
+        "date": "2026-08-08",
+        "status": "公告提示强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "113697.SH",
+        "bondName": "应流转债",
+        "date": "2026-08-06",
+        "status": "公告提示强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118053.SH",
+        "bondName": "正帆转债",
+        "date": "2026-07-17",
+        "status": "公告提示强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "113658.SH",
+        "bondName": "密卫转债",
+        "date": "2026-07-16",
+        "status": "公告提示强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "113624.SH",
+        "bondName": "正川转债",
+        "date": "2026-07-10",
+        "status": "公告提示强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "110074.SH",
+        "bondName": "精达转债",
+        "date": "2026-07-07",
+        "status": "公告提示强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118040.SH",
+        "bondName": "宏微转债",
+        "date": "2026-07-03",
+        "status": "公告提示强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "118011.SH",
+        "bondName": "银微转债",
+        "date": "2026-07-02",
+        "status": "公告提示强赎",
+        "eventDate": null
+      },
+      {
+        "bondCode": "113632.SH",
+        "bondName": "鹤21转债",
+        "date": "2026-06-25",
+        "status": "公告提示强赎",
+        "eventDate": null
+      }
+    ]
+  }
+]
