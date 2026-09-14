@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "runId": "20260914T200252-22e2226b",
+  "asOf": "2026-09-11",
+  "sourceReleaseRunId": "20260914T152258-ui-145bad9c",
+  "sourceDataRunId": "20260914T094957-fe9b166b",
+  "builtAt": "2026-09-14T20:11:53+08:00",
+  "strategyOnlyRecomputed": true,
+  "assumptionOnly": true,
+  "settlementScenario": {
+    "active": true,
+    "id": "nine-historical-bonds-par100-20260914",
+    "label": "9只历史转债 · 100元结算假设",
+    "price": 100.0,
+    "dateBasis": "local_delist_date_first_market_day_on_or_after",
+    "bondCount": 9,
+    "bonds": [
+      {
+        "code": "110072.SH",
+        "name": "广汇转债",
+        "delistDate": "20240828",
+        "effectiveDate": "20240828",
+        "price": 100.0
+      },
+      {
+        "code": "113010.SH",
+        "name": "江南转债",
+        "delistDate": "20190220",
+        "effectiveDate": "20190220",
+        "price": 100.0
+      },
+      {
+        "code": "113578.SH",
+        "name": "全筑转债",
+        "delistDate": "20240130",
+        "effectiveDate": "20240130",
+        "price": 100.0
+      },
+      {
+        "code": "123029.SZ",
+        "name": "英科转债",
+        "delistDate": "20250818",
+        "effectiveDate": "20250818",
+        "price": 100.0
+      },
+      {
+        "code": "123099.SZ",
+        "name": "普利转退",
+        "delistDate": "20250522",
+        "effectiveDate": "20250522",
+        "price": 100.0
+      },
+      {
+        "code": "128012.SZ",
+        "name": "辉丰转债",
+        "delistDate": "20210428",
+        "effectiveDate": "20210428",
+        "price": 100.0
+      },
+      {
+        "code": "128085.SZ",
+        "name": "鸿达转债",
+        "delistDate": "20240318",
+        "effectiveDate": "20240318",
+        "price": 100.0
+      },
+      {
+        "code": "128100.SZ",
+        "name": "搜特转债",
+        "delistDate": "20230811",
+        "effectiveDate": "20230811",
+        "price": 100.0
+      },
+      {
+        "code": "128114.SZ",
+        "name": "正邦转债",
+        "delistDate": "20240131",
+        "effectiveDate": "20240131",
+        "price": 100.0
+      }
+    ],
+    "cashTiming": "after_market_trades_on_effective_date_available_next_trading_day",
+    "settlementFeeBps": 0,
+    "liquidityCapApplied": false,
+    "metricsVerified": false,
+    "configSha256": "a13fa91a8f712c248a2760d4e2dcbb2f9eb44a33b3e259c59d495cd17bbeb056",
+    "note": "用户指定研究假设：所列转债在本地退市日或其后首个市场交易日收盘后，将剩余持仓按每张100元结算；非实际兑付记录，未加入票息。"
+  },
+  "strategyGeneration": "a979748d2b6d43a392ee6ad53cf12a4d",
+  "rawSourcesModified": false,
+  "baselineRetained": "D:\\4_数据库\\output\\settlement-scenario-20260914\\runs\\20260914T200252-22e2226b\\baseline",
+  "otherMarketDataUnchanged": true,
+  "supplementaryIndustryReference": {
+    "embeddedInUi": true,
+    "asOf": "2026-09-11",
+    "observedAt": "2026-09-10T17:50:54+08:00",
+    "source": "Tushare index_member_all / tushare_industry.sqlite",
+    "sha256": "485018583c233094d615d4dbfa582b9c38b9decbd193f43c0906d714b96d74ba"
+  },
+  "supplementaryTermsReference": {
+    "embeddedInUi": true,
+    "activeFallback": true,
+    "asOf": "2026-09-11",
+    "statusAsOf": "2026-09-14",
+    "referenceAsOf": "2026-09-14",
+    "generatedAt": "2026-09-14T14:34:03+08:00",
+    "coverage": {
+      "bonds": 311,
+      "callReference": 255,
+      "resetReference": 288,
+      "callUnavailable": 11,
+      "resetUnavailable": 23,
+      "callNotStarted": 45,
+      "resetNotStarted": 0,
+      "conversionPricesToday": 311,
+      "conflictingPriceDays": 0,
+      "documentRecords": 400,
+      "verifiedLegalDocuments": 0,
+      "disclosures": 4888,
+      "resetTitleCandidates": 2270,
+      "resetUnmatched": 297,
+      "resetAmbiguous": 30,
+      "verifiedResetEvents": 2,
+      "verifiedTriggerOverrides": 3,
+      "putReference": 101,
+      "putUnavailable": 14,
+      "putNotStarted": 196,
+      "putPositiveCount": 29,
+      "putRulesParsed": 304,
+      "putOnlyAdditional": 5,
+      "putConflictingPriceDays": 0,
+      "redemptionCandidates": 7,
+      "redemptionDocumentsMatched": 7,
+      "redemptionLastTradingKnown": 7,
+      "redemptionDateConflicts": 0,
+      "redemptionStoppedAfterClose": 1,
+      "currentCallReference": 223,
+      "currentCallNotStarted": 81,
+      "currentCallUnavailable": 7,
+      "currentCallPositive": 14,
+      "redemptionReferenceImminent": 4
+    },
+    "calculation": "price_condition_reference",
+    "source": "本地 Tushare 条款/未复权正股日线/交易日历；iFinD 精确日期转股价；公告正文核验覆盖及逐条已核承诺/重计公告",
+    "sha256": "e88a5a260e830444b53fb73e36de6cb41d3b17266f1c39c3fd1d09cb2bd9a4d4"
+  }
+}

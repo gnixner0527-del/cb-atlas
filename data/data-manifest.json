@@ -1,10 +1,10 @@
 {
   "version": "tushare-local-v1",
   "source": "Tushare / 本地SQLite历史库",
-  "asOf": "2026-09-10",
-  "generatedAt": "2026-09-11T03:46:28.270498+00:00",
+  "asOf": "2026-09-11",
+  "generatedAt": "2026-09-14T01:54:31.532238+00:00",
   "historyStart": "2018-01-01",
-  "snapshotBondCount": 310,
+  "snapshotBondCount": 311,
   "coverage": [
     {
       "label": "转债目录",
@@ -12,11 +12,11 @@
     },
     {
       "label": "转债日线",
-      "value": 828064
+      "value": 828379
     },
     {
       "label": "相关正股日线",
-      "value": 3196672
+      "value": 3202222
     },
     {
       "label": "赎回记录",
@@ -24,23 +24,23 @@
     },
     {
       "label": "评级历史",
-      "value": 5191
+      "value": 5192
     },
     {
       "label": "转股结果",
-      "value": 109513
+      "value": 109540
     },
     {
       "label": "网页历史有效交易日",
-      "value": 2110
+      "value": 2111
     },
     {
       "label": "截面波动率有值",
-      "value": 297
+      "value": 298
     },
     {
       "label": "截面余额有值",
-      "value": 265
+      "value": 266
     }
   ],
   "capabilities": [
@@ -115,7 +115,7 @@
     "刷新": "离线快照。先更新数据库，再运行npm run data:sync；网页不直连Tushare，也不读取token。"
   },
   "warnings": [
-    "截面仅含当日有效交易的普通可转债：310只；当日CB源行情313条，未纳入3条。EB不在本网页样本中。",
+    "截面仅含当日有效交易的普通可转债：311只；当日CB源行情313条，未纳入2条。EB不在本网页样本中。",
     "余额为截至行情日已公告的最近金额，非每日真实余额；行业为本次基础资料快照。",
     "历史转股价变动权限不足；下修、回售触发与强赎逐日计数未实现。",
     "YTM、策略绩效、因子IC和真实持仓未计算或未导入；不展示原型模拟结果。",
@@ -124,25 +124,25 @@
   ],
   "selection": {
     "rawLatestCB": 313,
-    "eligibleLatestCB": 310,
-    "excludedLatestCB": 3
+    "eligibleLatestCB": 311,
+    "excludedLatestCB": 2
   },
   "files": {
     "market-summary.json": {
       "rows": 1,
-      "sha256": "1d05e9fd44764c454954a5bf11c8449d64bee1d40d18dc7fa97183f20d7d2473"
+      "sha256": "49d15dc688c34fb81f676d5fcbbb833e480080c22052a48267b979ee14df1545"
     },
     "market-history.json": {
-      "rows": 2110,
-      "sha256": "013985fe34c7b9556e64bf2ec60e2bdc64b32c24668e6598df2bbad74f5757d3"
+      "rows": 2111,
+      "sha256": "c678d1e9c2fa8d5b7ee82c1c3e9f6ce485dd4e4d9b7eac08b1bb3af92ce47c0d"
     },
     "bonds-latest.json": {
-      "rows": 310,
-      "sha256": "89aa0798ea9b23a03600e24c18911b577e84ef37680c5c41f0568219612c01e3"
+      "rows": 311,
+      "sha256": "4cf0eb957ac7dd2e00bdddc9c03c956c03665ddf4d0537d1a91d5de0e9979aa7"
     },
     "term-events.json": {
       "rows": 5,
-      "sha256": "c2c5b7ebebaeff1cf4db0c0f4ab468fe05ef80c6c63d463ed8b5ba2bb31311c6"
+      "sha256": "7ba1a1b239cf61902bd57740e17f43f5c9bfcaa7f889a79c989835fbff5c5676"
     },
     "strategies.json": {
       "rows": 0,
@@ -150,7 +150,7 @@
     },
     "alerts.json": {
       "rows": 9,
-      "sha256": "364112b11f1cfd6f46958fcb934ecdc8f6789ae542e6425c122e1822e6b5069f"
+      "sha256": "e72a4feb7323dea70d3214b152079955c69a9c9cd8986ca133223e9f435962df"
     }
   }
 }

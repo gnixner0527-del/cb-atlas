@@ -40088,5 +40088,24 @@
     "valuationPercentile": 97.843602,
     "cbIndex": 479.4766,
     "equityIndex": 4548.3898
+  },
+  {
+    "date": "2026-09-11",
+    "sampleCount": 311,
+    "priceMedian": 130.96,
+    "premiumMedian": 53.78,
+    "doubleLowMedian": 202.75,
+    "amountTotal": 561.922457,
+    "risingCount": 82,
+    "risingDenominator": 311,
+    "breadth": 26.366559,
+    "percentiles": {
+      "price": 89.175746,
+      "premium": 97.370914,
+      "doubleLow": 98.034107
+    },
+    "valuationPercentile": 98.034107,
+    "cbIndex": 477.6288,
+    "equityIndex": 4510.1554
   }
 ]
