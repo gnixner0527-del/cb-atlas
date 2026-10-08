@@ -1,210 +1,127 @@
 {
-  "runId": "20260914T200252-22e2226b",
-  "sourceDataRunId": "20260914T094957-fe9b166b",
-  "asOf": "2026-09-11",
-  "sourceSnapshots": {
-    "runId": "20260914T094957-fe9b166b",
-    "createdAt": "2026-09-14T09:54:27+08:00",
-    "databases": [
-      {
-        "file": "tushare_cb.sqlite",
-        "bytes": 4602191872,
-        "sha256": "b311f81c59b129fd44502ce07c7a2cf407f17f4f777c08e9804f2e667b621056",
-        "source": "tushare_cb.sqlite",
-        "capturedAt": "2026-09-14T09:54:21+08:00",
-        "quickCheck": "ok"
+  "schemaVersion": 2,
+  "runId": "20261008T125219-697a7e57",
+  "asOf": "2026-09-30",
+  "createdAt": "2026-10-08T12:59:32+08:00",
+  "status": "partial",
+  "warnings": [
+    "全 A 股历史涨跌停价已扫描全部 2123 个交易日；来源在 1215 天仍缺 65521 条证券日期对应，保留质量缺口，不视为数据完整。"
+  ],
+  "sourceFreshness": {
+    "marketAsOf": "20260930",
+    "eventsRequestedThrough": "20261007",
+    "sources": {
+      "equity_market": {
+        "completedThrough": "20260930",
+        "pending": null
       },
-      {
-        "file": "ifind.sqlite",
-        "bytes": 158953472,
-        "sha256": "42991fb2b594301c6af51f65b9064e37b6012c29e9fd93cb81227a86d641bcc9",
-        "source": "ifind.sqlite",
-        "capturedAt": "2026-09-14T09:54:22+08:00",
-        "quickCheck": "ok"
+      "cb_etf": {
+        "completedThrough": "20260930",
+        "pending": null
       },
-      {
-        "file": "tushare_supplement.sqlite",
-        "bytes": 330743808,
-        "sha256": "f7678bdd5998ab09ab54ca7b1e319e7547cb0594b1764ad8a17cd9f8f5d2b1d7",
-        "source": "tushare_supplement.sqlite",
-        "capturedAt": "2026-09-14T09:54:23+08:00",
-        "quickCheck": "ok"
+      "equity_financial_core": {
+        "completedThrough": "20261007",
+        "pending": null
       },
-      {
-        "file": "tushare_alias_supplement.sqlite",
-        "bytes": 528384,
-        "sha256": "b01d3c345a32695f7b016bd119db4960cd9bfe67e9be52fd499a4614ce1fc3fc",
-        "source": "tushare_alias_supplement.sqlite",
-        "capturedAt": "2026-09-14T09:54:23+08:00",
-        "quickCheck": "ok"
+      "equity_financial_events": {
+        "completedThrough": "20261007",
+        "pending": null
       },
-      {
-        "file": "chinabond_curves.sqlite",
-        "bytes": 51613696,
-        "sha256": "1e3205d5ef40d87eb5ead2e5d49d8b7da586be663c3548028f5c8a75c583ab44",
-        "source": "chinabond_curves.sqlite",
-        "capturedAt": "2026-09-14T09:54:23+08:00",
-        "quickCheck": "ok"
+      "industry_membership": {
+        "completedThrough": "20261007",
+        "pending": null
       },
-      {
-        "file": "tushare_industry.sqlite",
-        "bytes": 2183168,
-        "sha256": "516c37433c7e6a2eade6f287570d25f7b76246fd12caab9047223a8ac8abeb74",
-        "source": "tushare_industry.sqlite",
-        "capturedAt": "2026-09-14T09:54:23+08:00",
-        "quickCheck": "ok"
+      "ifind_announcements": {
+        "completedThrough": "20261007",
+        "pending": null
       },
-      {
-        "file": "cb_research_foundation.sqlite",
-        "bytes": 228757504,
-        "sha256": "a62dc3a370f3e0f4835c864cf75967a0a437d057b280a0cfc2b4986274752752",
-        "source": "cb_research_foundation.sqlite",
-        "capturedAt": "2026-09-14T09:54:24+08:00",
-        "quickCheck": "ok"
+      "document_text": {
+        "completedThrough": "20261007",
+        "pending": null
       },
-      {
-        "file": "ifind_document_text.sqlite",
-        "bytes": 8044544,
-        "sha256": "3dd9fec432bc02d661c813a647b125ee58d14936aa4894548ab8f4d45ed417bd",
-        "source": "ifind_document_text.sqlite",
-        "capturedAt": "2026-09-14T09:54:24+08:00",
-        "quickCheck": "ok"
+      "redemption_reference": {
+        "completedThrough": "20261007",
+        "pending": null
       },
-      {
-        "file": "cb_quant.sqlite",
-        "bytes": 561991680,
-        "sha256": "d17142b7f9cac5d476d0432a5dc1b2c6cdbda1e7706584a8a0528a8a58658b94",
-        "source": "cb_quant.sqlite",
-        "capturedAt": "2026-09-14T09:54:26+08:00",
-        "quickCheck": "ok"
+      "financial_announcements": {
+        "completedThrough": "20261007"
       },
-      {
-        "file": "cb_index_correlation.sqlite",
-        "bytes": 175181824,
-        "sha256": "000e510dfb518dd4e0859449e64aeca968722d35bd32352563040a57b274766a",
-        "source": "cb_index_correlation.sqlite",
-        "capturedAt": "2026-09-14T09:54:27+08:00",
-        "quickCheck": "ok"
+      "equity_limit_history": {
+        "start": "20180101",
+        "end": "20260930",
+        "status": "partial",
+        "reason": "scan_finished_with_source_gaps",
+        "scanStatus": "complete",
+        "coverageStatus": "source_gaps",
+        "unscannedDays": 0,
+        "sourcePartialDays": 1215,
+        "gapRows": 65521
+      },
+      "equity_limit_quality": {
+        "version": "source-limit-quality-v1",
+        "status": "complete",
+        "cachedDays": 2123,
+        "dirtyDaysRemaining": 0,
+        "observedRows": 9906491,
+        "missingRowCodes": 65521,
+        "nullLimitRows": 0,
+        "invalidBoundaryRows": 284,
+        "sentinelCandidateRows": 2753,
+        "extremePositiveCandidateRows": 4157,
+        "ordinaryNumericRows": 9899297,
+        "duplicateBusinessCodes": 0,
+        "networkRequests": 0,
+        "rawPricesChanged": false,
+        "legalLimitRuleVerified": false
+      },
+      "public_cashflow_evidence": {
+        "asOf": "2026-10-07",
+        "status": "completed",
+        "verifiedPublicCashflows": 3,
+        "unresolvedOrConditionalCases": 6
       }
-    ],
-    "sourceInputSignature": "52dfb03e1a270ba479b7d312993ad341a0cacb6a48441f07071e89a6647d0ac6"
-  },
-  "settlementScenario": {
-    "active": true,
-    "id": "nine-historical-bonds-par100-20260914",
-    "label": "9只历史转债 · 100元结算假设",
-    "price": 100.0,
-    "dateBasis": "local_delist_date_first_market_day_on_or_after",
-    "bondCount": 9,
-    "bonds": [
-      {
-        "code": "110072.SH",
-        "name": "广汇转债",
-        "delistDate": "20240828",
-        "effectiveDate": "20240828",
-        "price": 100.0
-      },
-      {
-        "code": "113010.SH",
-        "name": "江南转债",
-        "delistDate": "20190220",
-        "effectiveDate": "20190220",
-        "price": 100.0
-      },
-      {
-        "code": "113578.SH",
-        "name": "全筑转债",
-        "delistDate": "20240130",
-        "effectiveDate": "20240130",
-        "price": 100.0
-      },
-      {
-        "code": "123029.SZ",
-        "name": "英科转债",
-        "delistDate": "20250818",
-        "effectiveDate": "20250818",
-        "price": 100.0
-      },
-      {
-        "code": "123099.SZ",
-        "name": "普利转退",
-        "delistDate": "20250522",
-        "effectiveDate": "20250522",
-        "price": 100.0
-      },
-      {
-        "code": "128012.SZ",
-        "name": "辉丰转债",
-        "delistDate": "20210428",
-        "effectiveDate": "20210428",
-        "price": 100.0
-      },
-      {
-        "code": "128085.SZ",
-        "name": "鸿达转债",
-        "delistDate": "20240318",
-        "effectiveDate": "20240318",
-        "price": 100.0
-      },
-      {
-        "code": "128100.SZ",
-        "name": "搜特转债",
-        "delistDate": "20230811",
-        "effectiveDate": "20230811",
-        "price": 100.0
-      },
-      {
-        "code": "128114.SZ",
-        "name": "正邦转债",
-        "delistDate": "20240131",
-        "effectiveDate": "20240131",
-        "price": 100.0
-      }
-    ],
-    "cashTiming": "after_market_trades_on_effective_date_available_next_trading_day",
-    "settlementFeeBps": 0,
-    "liquidityCapApplied": false,
-    "metricsVerified": false,
-    "configSha256": "a13fa91a8f712c248a2760d4e2dcbb2f9eb44a33b3e259c59d495cd17bbeb056",
-    "note": "用户指定研究假设：所列转债在本地退市日或其后首个市场交易日收盘后，将剩余持仓按每张100元结算；非实际兑付记录，未加入票息。"
-  },
-  "dataFiles": {
-    "data/alerts.json": {
-      "sha256": "e72a4feb7323dea70d3214b152079955c69a9c9cd8986ca133223e9f435962df",
-      "bytes": 2227
-    },
-    "data/bonds-latest.json": {
-      "sha256": "4cf0eb957ac7dd2e00bdddc9c03c956c03665ddf4d0537d1a91d5de0e9979aa7",
-      "bytes": 214497
-    },
-    "data/data-manifest.json": {
-      "sha256": "138cd4cc624a9a0cfed6ca87f51464adbae53f75ad3c2fd1f940a5217c727b4a",
-      "bytes": 6450
-    },
-    "data/index-correlation-latest.json": {
-      "sha256": "706f4a999489c91a87113a216cca9ef3f1c66dcc3db95a7fedf69f87a36e8e5a",
-      "bytes": 18591624
-    },
-    "data/market-history.json": {
-      "sha256": "c678d1e9c2fa8d5b7ee82c1c3e9f6ce485dd4e4d9b7eac08b1bb3af92ce47c0d",
-      "bytes": 966444
-    },
-    "data/market-summary.json": {
-      "sha256": "49d15dc688c34fb81f676d5fcbbb833e480080c22052a48267b979ee14df1545",
-      "bytes": 5030
-    },
-    "data/quant-research.json": {
-      "sha256": "34c8e818d5990f033d32a4145f00706a702c3f135cedc1491bd46ba2df10b11c",
-      "bytes": 13348956
-    },
-    "data/strategies.json": {
-      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
-      "bytes": 3
-    },
-    "data/term-events.json": {
-      "sha256": "7ba1a1b239cf61902bd57740e17f43f5c9bfcaa7f889a79c989835fbff5c5676",
-      "bytes": 21524
     }
   },
-  "publicPackageNote": "仅省略本机绝对路径；行情、量化和相关性数据文件保持已提交版本原样。"
+  "dataFiles": {
+    "alerts.json": {
+      "bytes": 2593,
+      "sha256": "ad57271f7dcb4ac35d7c344183dbc551cd77651052f7197a8cd55f3a1fc09dad"
+    },
+    "bonds-latest.json": {
+      "bytes": 286823,
+      "sha256": "a9fb749dc6e00770d218caa325f87a1758f0775266bcf7d44bc68be7f9fc1d45"
+    },
+    "data-manifest.json": {
+      "bytes": 6610,
+      "sha256": "e42155f1697d74831b81277802fa20faf7f18d7aec57a6f6bca00a2e96efc32e"
+    },
+    "index-correlation-latest.json": {
+      "bytes": 18633570,
+      "sha256": "0966bf0c95fbce79272aa81c5f973cef4ee75f56889ada27ef2065a9373595a9"
+    },
+    "market-history.json": {
+      "bytes": 971961,
+      "sha256": "9791a31d7c17c1c27f602f7e251d33a11762346f67239ee7fca8f66c206f4d5c"
+    },
+    "market-summary.json": {
+      "bytes": 5027,
+      "sha256": "71e22f8afe7fd823ad713a564d3e0b0d7fe1f1cb7c4fcf16e63daf72897bf3af"
+    },
+    "quant-research.json": {
+      "bytes": 13371151,
+      "sha256": "ac753cc03289ee17cc17ea29751b11a623811529f0e5e9872bb43f2e798ba842"
+    },
+    "strategies.json": {
+      "bytes": 3,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "term-events.json": {
+      "bytes": 19443,
+      "sha256": "08c626a273162d57d8107e8e3fd3f32fc116d61eff4c68f11c263e6c61553fed"
+    },
+    "terms-monitor.json": {
+      "bytes": 10772366,
+      "sha256": "f1ad2f949ae35e114249cc583c8e1203a3069a31bcef72e843fa40311a797298"
+    }
+  }
 }

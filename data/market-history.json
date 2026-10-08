@@ -40107,5 +40107,233 @@
     "valuationPercentile": 98.034107,
     "cbIndex": 477.6288,
     "equityIndex": 4510.1554
+  },
+  {
+    "date": "2026-09-14",
+    "sampleCount": 310,
+    "priceMedian": 131.953,
+    "premiumMedian": 53.575,
+    "doubleLowMedian": 203.843,
+    "amountTotal": 502.852532,
+    "risingCount": 265,
+    "risingDenominator": 310,
+    "breadth": 85.483871,
+    "percentiles": {
+      "price": 90.648674,
+      "premium": 97.277462,
+      "doubleLow": 98.555871
+    },
+    "valuationPercentile": 98.555871,
+    "cbIndex": 480.0352,
+    "equityIndex": 4480.0821
+  },
+  {
+    "date": "2026-09-15",
+    "sampleCount": 310,
+    "priceMedian": 130.971,
+    "premiumMedian": 55.735,
+    "doubleLowMedian": 205.351,
+    "amountTotal": 448.507868,
+    "risingCount": 62,
+    "risingDenominator": 310,
+    "breadth": 20.0,
+    "percentiles": {
+      "price": 89.185991,
+      "premium": 98.083294,
+      "doubleLow": 98.793185
+    },
+    "valuationPercentile": 98.793185,
+    "cbIndex": 477.8774,
+    "equityIndex": 4450.0402
+  },
+  {
+    "date": "2026-09-16",
+    "sampleCount": 310,
+    "priceMedian": 132.014,
+    "premiumMedian": 54.25,
+    "doubleLowMedian": 202.4795,
+    "amountTotal": 557.72288,
+    "risingCount": 236,
+    "risingDenominator": 310,
+    "breadth": 76.129032,
+    "percentiles": {
+      "price": 90.752129,
+      "premium": 97.56386,
+      "doubleLow": 97.800378
+    },
+    "valuationPercentile": 97.800378,
+    "cbIndex": 480.6716,
+    "equityIndex": 4480.2683
+  },
+  {
+    "date": "2026-09-17",
+    "sampleCount": 310,
+    "priceMedian": 131.7825,
+    "premiumMedian": 52.74,
+    "doubleLowMedian": 202.6435,
+    "amountTotal": 505.857696,
+    "risingCount": 101,
+    "risingDenominator": 310,
+    "breadth": 32.580645,
+    "percentiles": {
+      "price": 90.472813,
+      "premium": 96.666667,
+      "doubleLow": 97.895981
+    },
+    "valuationPercentile": 97.895981,
+    "cbIndex": 479.6501,
+    "equityIndex": 4460.1557
+  },
+  {
+    "date": "2026-09-18",
+    "sampleCount": 310,
+    "priceMedian": 132.3405,
+    "premiumMedian": 52.25,
+    "doubleLowMedian": 202.635,
+    "amountTotal": 575.295611,
+    "risingCount": 235,
+    "risingDenominator": 310,
+    "breadth": 75.806452,
+    "percentiles": {
+      "price": 91.564272,
+      "premium": 96.337429,
+      "doubleLow": 97.849716
+    },
+    "valuationPercentile": 97.849716,
+    "cbIndex": 482.5984,
+    "equityIndex": 4507.3926
+  },
+  {
+    "date": "2026-09-21",
+    "sampleCount": 310,
+    "priceMedian": 132.354,
+    "premiumMedian": 50.18,
+    "doubleLowMedian": 200.423,
+    "amountTotal": 486.544143,
+    "risingCount": 175,
+    "risingDenominator": 310,
+    "breadth": 56.451613,
+    "percentiles": {
+      "price": 91.568257,
+      "premium": 94.449693,
+      "doubleLow": 97.472839
+    },
+    "valuationPercentile": 97.472839,
+    "cbIndex": 483.0819,
+    "equityIndex": 4539.5654
+  },
+  {
+    "date": "2026-09-22",
+    "sampleCount": 310,
+    "priceMedian": 131.882,
+    "premiumMedian": 49.88,
+    "doubleLowMedian": 198.736,
+    "amountTotal": 493.100979,
+    "risingCount": 68,
+    "risingDenominator": 310,
+    "breadth": 21.935484,
+    "percentiles": {
+      "price": 90.439093,
+      "premium": 93.838527,
+      "doubleLow": 97.332389
+    },
+    "valuationPercentile": 97.332389,
+    "cbIndex": 480.9563,
+    "equityIndex": 4544.5875
+  },
+  {
+    "date": "2026-09-23",
+    "sampleCount": 311,
+    "priceMedian": 131.1,
+    "premiumMedian": 49.26,
+    "doubleLowMedian": 197.193,
+    "amountTotal": 481.798392,
+    "risingCount": 58,
+    "risingDenominator": 311,
+    "breadth": 18.649518,
+    "percentiles": {
+      "price": 89.216612,
+      "premium": 93.133554,
+      "doubleLow": 96.956111
+    },
+    "valuationPercentile": 96.956111,
+    "cbIndex": 478.2636,
+    "equityIndex": 4517.2785
+  },
+  {
+    "date": "2026-09-24",
+    "sampleCount": 311,
+    "priceMedian": 129.288,
+    "premiumMedian": 47.85,
+    "doubleLowMedian": 195.3,
+    "amountTotal": 454.067616,
+    "risingCount": 29,
+    "risingDenominator": 311,
+    "breadth": 9.324759,
+    "percentiles": {
+      "price": 86.15566,
+      "premium": 91.391509,
+      "doubleLow": 96.108491
+    },
+    "valuationPercentile": 96.108491,
+    "cbIndex": 471.8315,
+    "equityIndex": 4439.1443
+  },
+  {
+    "date": "2026-09-28",
+    "sampleCount": 311,
+    "priceMedian": 129.051,
+    "premiumMedian": 50.59,
+    "doubleLowMedian": 198.305,
+    "amountTotal": 399.986477,
+    "risingCount": 116,
+    "risingDenominator": 311,
+    "breadth": 37.299035,
+    "percentiles": {
+      "price": 85.92645,
+      "premium": 94.978784,
+      "doubleLow": 97.194719
+    },
+    "valuationPercentile": 97.194719,
+    "cbIndex": 469.727,
+    "equityIndex": 4340.755
+  },
+  {
+    "date": "2026-09-29",
+    "sampleCount": 311,
+    "priceMedian": 129.936,
+    "premiumMedian": 48.83,
+    "doubleLowMedian": 196.8,
+    "amountTotal": 482.740729,
+    "risingCount": 184,
+    "risingDenominator": 311,
+    "breadth": 59.163987,
+    "percentiles": {
+      "price": 86.875589,
+      "premium": 92.247879,
+      "doubleLow": 96.771913
+    },
+    "valuationPercentile": 96.771913,
+    "cbIndex": 469.6383,
+    "equityIndex": 4345.2088
+  },
+  {
+    "date": "2026-09-30",
+    "sampleCount": 310,
+    "priceMedian": 130.0505,
+    "premiumMedian": 50.51,
+    "doubleLowMedian": 195.707,
+    "amountTotal": 423.621937,
+    "risingCount": 175,
+    "risingDenominator": 310,
+    "breadth": 56.451613,
+    "percentiles": {
+      "price": 87.023081,
+      "premium": 94.936411,
+      "doubleLow": 96.396609
+    },
+    "valuationPercentile": 96.396609,
+    "cbIndex": 468.9759,
+    "equityIndex": 4357.6155
   }
 ]
